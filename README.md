@@ -12,4 +12,5 @@ Kiberxavfsizlik sohasidagi o'rganishlarim va laboratoriya ishlarim to'plami. Har
 5. 🪟 [Windows Fundamentals 1](./05-Windows-Fundamentals-1)
 6. 🪟 [Windows Fundamentals 2](./06-Windows-Fundamentals-2)
 7. 🪟 [Windows Fundamentals 3](./07-Windows-Fundamentals-3)
-8. 8. 🌸 [Sakura OSINT](./08-Sakura-OSINT)
+8. 🌸 [Sakura OSINT](./08-Sakura-OSINT) 
+9. 🔍 [Searchlight - IMINT](./09-Searchlight-IMINT)
