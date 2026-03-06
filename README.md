@@ -14,5 +14,6 @@ Kiberxavfsizlik sohasidagi o'rganishlarim va laboratoriya ishlarim to'plami. Har
 7. 🪟 [Windows Fundamentals 3](./07-Windows-Fundamentals-3)
 8. 🌸 [Sakura OSINT](./08-Sakura-OSINT) 
 9. 🔍 [Searchlight - IMINT](./09-Searchlight-IMINT)
-10. 🌐 [How Websites Work](./10-How-Websites-Work)
-11. 🛡️ [Introduction to Cyber Security](./11-Introduction-to-Cyber-Security)
+10.🌐 [How Websites Work](./10-How-Websites-Work)
+11.🛡️ [Introduction to Cyber Security](./11-Introduction-to-Cyber-Security)
+12.🛡️ [Windows Fundamentals](./12-Windows-Fundamentals)
