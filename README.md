@@ -16,5 +16,5 @@ Kiberxavfsizlik sohasidagi o'rganishlarim va laboratoriya ishlarim to'plami. Har
 9. 🔍 [Searchlight - IMINT](./09-Searchlight-IMINT)
 10.🌐 [How Websites Work](./10-How-Websites-Work)
 11.🛡️ [Introduction to Cyber Security](./11-Introduction-to-Cyber-Security)
-12.🛡️ [Windows Fundamentals](./12-Windows-Fundamentals)
+12. 🛡️ [Active Directory Basics](./12-Active-Directory-Basics)
 13. 🌐 [Networking Fundamentals](./13-Networking-Fundamentals)
